@@ -7,6 +7,10 @@ description: Run the BMAD Method inside OpenClaw using structured role prompts, 
 
 This skill packages BMAD’s role prompts, templates, checklists, and workflow state machine for use with OpenClaw `sessions_spawn`.
 
+## Credits
+- BMAD Method v6 by BMad Code (https://github.com/bmadcode/BMAD-METHOD)
+- OpenClaw adaptation by Erwan Lorteau (https://github.com/ErwanLorteau/BMAD_Openclaw)
+
 ## What’s included (in references)
 - **agents/** — upstream BMAD personas
 - **agents-openclaw/** — execution agents tailored to OpenClaw
